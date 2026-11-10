@@ -91,7 +91,7 @@ a { color: inherit; }
 
 
 /* Review pages: meadow photo behind the whole page, down through the footer */
-body.journal { background: #2f9bff url("images/meadow.png") center top / cover fixed; min-height: 100vh; }
+body.journal { background: #2f9bff url("../images/meadow.png") center top / cover fixed; min-height: 100vh; }
 body.journal .site-footer { background: rgba(204, 232, 255, .88); margin-top: 0; margin-right: 10%; box-shadow: none; }
 
 /* position + z-index here lets the tabs sit behind the notebook and still be clickable */
